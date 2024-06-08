@@ -4,3 +4,6 @@ ER:
 
 
 I couldn't deploy my code, I tried in vercel and render but they both give me errors about node.js. I couldn't add docker. 
+
+
+youtube link : https://youtu.be/OHk5JCbJAvw
